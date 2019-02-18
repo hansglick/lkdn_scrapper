@@ -1,4 +1,4 @@
-name: selenium_learning
+name: lkdn_env
 channels:
   - anaconda
   - conda-forge

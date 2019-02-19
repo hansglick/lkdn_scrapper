@@ -62,5 +62,4 @@ Les jobs offers sont stockées dans le fichier pickle jobsdico.p à la racine du
 En vidéo
 --------
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/vHFrUEaCEKI" frameborder="0" allowfullscreen>
-</iframe>
+[![Alt text](https://cdn-images-1.medium.com/max/1600/1*gRvKUMZYrL1miPWbkIyVTQ.png)](https://www.youtube.com/embed/vHFrUEaCEKI)

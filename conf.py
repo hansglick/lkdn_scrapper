@@ -38,7 +38,7 @@ slaves_dico = {"esclave1" : {"userid" : "jean-louis@gmail.com",
 "password" : "****",
 "query" : "https://www.linkedin.com/jobs/search/?f_E=3%2C4&f_TP=1&keywords=Deep%20Learning&location=Monde%20entier&locationId=OTHERS.worldwide"}}
 # * * * * * * * * * * * * * * * 
-request_linkedin_job_offer = slaves_dico[which_slave]["query"]
+request_linkedin_job_offer = slaves_dico[which_slave]["query"] # do not change
 scraping_name = "deeplearningmonde" # the name of the folder that will save scrapped data
 working_folder =  scraping_name
 the_date_prefix = time.strftime('%Y%m%d', time.localtime(int(time.time())))
